@@ -1,0 +1,9 @@
+{
+	"name": "PromptForge",
+	"tree": {
+		"$className": "DataModel",
+		"PromptForge": {
+			"$path": "src"
+		}
+	}
+}
